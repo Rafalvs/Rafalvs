@@ -1,4 +1,4 @@
-<h1>Salve, $${\color{Rafael}Red}$$ presente 👊</h1>
+<h1>Salve, $${\color{Red}Rafael}$$ presente 👊</h1>
 Seja bem-vindo ao meu Github, aqui temos bolo de fubá, noites más dormidas e muita raiva de CSS 😡
 
 <div align="left">
