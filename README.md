@@ -5,12 +5,12 @@ Seja bem-vindo ao meu Github, aqui temos bolo de fubá, noites más dormidas e m
 - Cursando Desenvolvimento de Sistemas - ETEC
 
 ---
-<p>
-  <strong>Ferramentas e Tecnologias</strong> 💻🚀
-</p>
 
 <a align="right" href="https://github.com/rafalvs">
 <img align="right" loading="lazy" height="180em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=rafalvs&hide=html&layout=compact&theme=dracula />
+<p>
+  <strong>Ferramentas e Tecnologias</strong> 💻🚀
+</p>
   
 <div align="left" padding="4px">
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg" width="40" height="40" /><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/>
