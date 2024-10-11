@@ -8,7 +8,7 @@ Seja bem-vindo ao meu Github, aqui temos bolo de fubá, noites más dormidas e m
 
 <a align="right" href="https://github.com/rafalvs">
 <img align="right" loading="lazy" height="180em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=rafalvs&hide=html&layout=compact&theme=dracula />
-<p>
+<p align="left">
   <strong>Ferramentas e Tecnologias</strong> 💻🚀
 </p>
   
