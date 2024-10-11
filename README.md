@@ -1,6 +1,8 @@
 ## Salve, Rafael presente 👊
 Seja bem-vindo ao meu Github, aqui temos bolo de fubá, noites más dormidas e muita raiva de CSS 😡
 
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajB5eDUwd3I1N3A4bXV1eGFmcXZpMzB6enZpZWpyZ3I4YW5idXN4MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HRXnPYf10Zx0wz4alF/giphy.gif" alt="noite-gif" min-width="400px" max-width="200px" width="325px" align="left">
+
 - Formado em Sistemas de Informação - Uninove
 - Cursando Desenvolvimento de Sistemas - ETEC
 
@@ -32,6 +34,3 @@ Seja bem-vindo ao meu Github, aqui temos bolo de fubá, noites más dormidas e m
   <a href="https://www.linkedin.com/in/rafalvs" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafalvs" alt="LinkedIn"/></a>
 </div>
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajB5eDUwd3I1N3A4bXV1eGFmcXZpMzB6enZpZWpyZ3I4YW5idXN4MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HRXnPYf10Zx0wz4alF/giphy.gif" alt="noite-gif" min-width="400px" max-width="200px" width="200px" align="left">
-<img src="https://www.nuuvem.com/lp/pt/ruff-ghanor/images/reliquia-tome.png" alt="tomo" min-width="400px" max-width="200px" width="200px" align="right">
