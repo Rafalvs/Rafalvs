@@ -10,16 +10,16 @@ Seja bem-vindo ao meu Github, aqui temos bolo de fubá, noites más dormidas e m
   <strong>Ferramentas e Tecnologias</strong> 💻🚀
 </p>
 
+<div align="right">
+<a href="https://github.com/rafalvs">
+<img loading="lazy" height="180em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=rafalvs&hide=html&layout=compact&theme=dracula />
+</div>
+  
 <div align="left" padding="4px">
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg" width="40" height="40" /><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/>
   <br>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" width="40" height="40"/>         
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" width="40" height="40"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="40" height="40"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-plain.svg" width="40" height="40"/>          
-</div>
-
-<div align="right">
-<a href="https://github.com/rafalvs">
-<img loading="lazy" height="180em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=rafalvs&hide=html&layout=compact&theme=dracula />
 </div>
 
 ---
