@@ -5,7 +5,6 @@ Seja bem-vindo ao meu Github, aqui temos bolo de fubá, noites más dormidas e m
 - Cursando Desenvolvimento de Sistemas - ETEC
 
 ---
-
 <p>
   <strong>Ferramentas e Tecnologias</strong> 💻🚀
 </p>
@@ -22,7 +21,7 @@ Seja bem-vindo ao meu Github, aqui temos bolo de fubá, noites más dormidas e m
 
 ---
 
-<p>
+<p align="left">
   <strong>Contatos</strong> 📞✉
 </p>
 
