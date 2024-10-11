@@ -4,13 +4,6 @@ Seja bem-vindo ao meu Github, aqui temos bolo de fubá, noites más dormidas e m
 - Formado em Sistemas de Informação - Uninove
 - Cursando Desenvolvimento de Sistemas - ETEC
 
-<div align="right">
-<a href="https://github.com/rafalvs">
-<img loading="lazy" height="180em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=rafalvs&hide=html&layout=compact&theme=dracula />
-</div>
-
-<img src="https://www.nuuvem.com/lp/pt/ruff-ghanor/images/reliquia-tome.png" alt="tomo" min-width="400px" max-width="400px" width="400px" align="right">
-
 ---
 
 <p>
@@ -36,3 +29,11 @@ Seja bem-vindo ao meu Github, aqui temos bolo de fubá, noites más dormidas e m
   <a href="https://www.linkedin.com/in/rafalvs" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafalvs" alt="LinkedIn"/></a>
 </div>
+
+<div align="right">
+<a href="https://github.com/rafalvs">
+<img loading="lazy" height="180em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=rafalvs&hide=html&layout=compact&theme=dracula />
+</div>
+
+<img src="https://www.nuuvem.com/lp/pt/ruff-ghanor/images/reliquia-tome.png" alt="tomo" min-width="400px" max-width="400px" width="400px" align="right">
+
