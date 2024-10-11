@@ -1,7 +1,9 @@
 ## Salve, Rafael presente 👊
 Seja bem-vindo ao meu Github, aqui temos bolo de fubá, noites más dormidas e muita raiva de CSS 😡
 
-<img loading="lazy" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajB5eDUwd3I1N3A4bXV1eGFmcXZpMzB6enZpZWpyZ3I4YW5idXN4MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HRXnPYf10Zx0wz4alF/giphy.gif" alt="noite-gif" min-width="400px" max-width="200px" width="325px" align="left">
+<div align="left">
+  <img loading="lazy" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajB5eDUwd3I1N3A4bXV1eGFmcXZpMzB6enZpZWpyZ3I4YW5idXN4MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HRXnPYf10Zx0wz4alF/giphy.gif" alt="noite-gif" min-width="400px" max-width="200px" width="325px">
+</div>
 
 - Formado em Sistemas de Informação - Uninove
 - Cursando Desenvolvimento de Sistemas - ETEC
