@@ -6,7 +6,7 @@ Seja bem-vindo ao meu Github, aqui temos bolo de fubá, noites más dormidas e m
 
 <div>
 <a href="https://github.com/rafalvs">
-<img loading="lazy" height="180em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=dracula />
+<img loading="lazy" height="180em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=rafalvscode&hide=html&layout=compact&theme=dracula />
 </div>
 
 <img src="https://www.nuuvem.com/lp/pt/ruff-ghanor/images/reliquia-tome.png" alt="tomo" min-width="400px" max-width="400px" width="400px" align="right">
@@ -30,8 +30,8 @@ Seja bem-vindo ao meu Github, aqui temos bolo de fubá, noites más dormidas e m
 </p>
 
 <div align="left">
-  <a href="#" title="Gmail">
+  <a href="mailto:rafaelalvessantana0401@gmail.com" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=rafaelalvessantana0401@gmail.com" alt="Gmail"/></a>
-  <a href="#" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/rafalvs" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafalvs" alt="LinkedIn"/></a>
 </div>
