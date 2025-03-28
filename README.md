@@ -1,7 +1,6 @@
 ## <code style="color : name_color">Salve</code>
 
-Seja bem-vindo ao meu Github, aqui temos bolo de cenoura,
-noites más dormidas e muita raiva de CSS 😡
+Eu resolvo.
 
 <div align="left">
   <img loading="lazy" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajB5eDUwd3I1N3A4bXV1eGFmcXZpMzB6enZpZWpyZ3I4YW5idXN4MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HRXnPYf10Zx0wz4alF/giphy.gif" alt="noite-gif" min-width="400px" max-width="200px" width="400px">
